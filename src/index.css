@@ -1,0 +1,19 @@
+/* src/index.css */
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+canvas {
+  max-width: 100%;
+}
+
+button {
+  margin: 10px 5px;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 15px;
+  }
+}
